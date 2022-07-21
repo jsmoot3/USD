@@ -2,7 +2,7 @@
 
 ### Assignment
 
-To "reproduce" the beta app as shown here: https://vhi-dev.usc.edu/eval
+To "reproduce" the **_beta_** app as shown here: https://vhi-dev.usc.edu/eval
 
 - Click "find" to show the Search input textbox
 - Enter text in the text box to perform auto-suggests (sample inputs: "europe" or "food")
