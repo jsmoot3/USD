@@ -21,7 +21,7 @@ To "reproduce" the **_beta_** app as shown here: https://vhi-dev.usc.edu/eval
 ### Angular project
 
 - Clone this repo, or make a public fork
-- This app is in the projects/beta folder
+- Pleae use the 'skeleton' app in the projects/beta folder to implement your solution
 - Use Angular material/cdk (already installed)  
   https://material.angular.io
 - Use FlexLayout (already installed)  
